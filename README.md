@@ -1,7 +1,3 @@
-<img align="right" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpoZ2c3YmVhOHliY2R0eTdweHRmMTU2aWxvNjRnZHR2aXdqdGhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gobgTipA1CiBy/giphy.gif"  />
-
-###
-
 <h1 align="left">I'm a professional procrastinator, part-time thinker, and full-time couch philosopher.</h1>
 
 ###
@@ -61,7 +57,7 @@
   <a href="https://x.com/1uccc_ng" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="lucnd0201@gmail.com" target="_blank">
+  <a href="mailto:lucnd0201@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
@@ -84,6 +80,8 @@
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/6f/de/3d/6fde3d887e8a9bd6932cb1f5afa83c06.gif"  />
+  <img height="200"
+src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpoZ2c3YmVhOHliY2R0eTdweHRmMTU2aWxvNjRnZHR2aXdqdGhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gobgTipA1CiBy/giphy.gif"  />
 </div>
 
 ###

@@ -1,4 +1,3 @@
-<h1 align="left">I'm a professional procrastinator, part-time thinker, and full-time couch philosopher.</h1>
 
 ###
 
@@ -34,13 +33,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1uccc&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1uccc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/1uccc.ng/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -71,25 +63,9 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31q7yjihvvkaatkxmzcrfdz4zf7e">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31q7yjihvvkaatkxmzcrfdz4zf7e&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
   <img height="200" src="https://i.pinimg.com/originals/6f/de/3d/6fde3d887e8a9bd6932cb1f5afa83c06.gif"  />
   <img height="200"
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmpoZ2c3YmVhOHliY2R0eTdweHRmMTU2aWxvNjRnZHR2aXdqdGhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gobgTipA1CiBy/giphy.gif"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1uccc/1uccc/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1uccc/1uccc/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/1uccc/1uccc/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
